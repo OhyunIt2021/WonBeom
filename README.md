@@ -1,6 +1,6 @@
 # 오현고등학교 IT교육 Repository
 
-https://colab.research.google.com/drive/1ZLaTB9qed_oyOrAAvLYPwMA7nzTZjyzR?usp=sharing
+- https://drive.google.com/drive/folders/1m6jS4P14yFAVZKedYbQwc2yeacrbgr49
 
 # git기본 명령어
 - git add .
